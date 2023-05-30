@@ -1,0 +1,1 @@
+"# luau-type-syntax-remover" 
